@@ -1,0 +1,35 @@
+{
+    "education": [
+      {
+        "degree": "Systemutveckling (C#)",
+        "school": "Campus Varberg",
+        "year": "2023-2025"
+      },
+      {
+        "degree": "Gymnasieexamen (Foto)",
+        "school": "LBS Varberg",
+        "year": "2016-2019"
+      }
+    ],
+    "workExperience": [
+      {
+        "title": "Truckförare",
+        "company": "Akwel",
+        "year": "2022",
+        "description": "Allt inom lager samt lastning av lastbilar med truck."
+      },
+      {
+        "title": "Linjeansvarig",
+        "company": "Marenor",
+        "year": "2021",
+        "description": "Montering, Nedmontering och drift av produktionslinje"
+      },
+      {
+        "title": "Sanering",
+        "company": "Ringhals",
+        "year": "2020",
+        "description": "Sanering av allt från radioaktivt material, olja eller musslor i kylkanalen."
+      }
+    ]
+  }
+  
