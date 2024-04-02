@@ -57,7 +57,7 @@ nav li.active {
 
 @font-face {
     font-family: titleFont;
-    src: url('/Other/University.otf')
+    src: url('./Other/University.otf')
 }
 
 .image-container img {
